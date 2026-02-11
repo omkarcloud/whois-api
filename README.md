@@ -1,3 +1,5 @@
+![Whois API Featured Image](https://raw.githubusercontent.com/omkarcloud/whois-api/main/whois-api-featured-image.png)
+
 # Whois API
 
 REST API for domain WHOIS lookups. Returns registrar info, registration dates, nameservers, and DNSSEC status in structured JSON.
