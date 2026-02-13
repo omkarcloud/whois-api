@@ -4,14 +4,14 @@
 
 REST API for domain WHOIS lookups. Returns registrar info, registration dates, nameservers, and DNSSEC status in structured JSON.
 
-## Features
+## Key Features
 
 - Single endpoint for all domain lookups
 - Returns structured JSON (no raw WHOIS parsing needed)
 - Supports 1,000+ TLDs including .com, .net, .org, .io, .co, .ai
 - Real-time data from official WHOIS servers
 - 850ms average response time
-- 5,000 requests/month on free tier
+- **5,000 requests/month on free tier**
 - Example Response:
 
 ```json
@@ -37,13 +37,13 @@ REST API for domain WHOIS lookups. Returns registrar info, registration dates, n
 }
 ```
 
-## Authentication
+## Get API Key
 
-- Create account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up)
-- Get API key from [omkar.cloud/api-key](https://www.omkar.cloud/api-key)
-- Include `API-Key` header in requests
+Create an account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up?redirect=/api-key) to get your API key.
 
-Note: 5,000 requests/month free.
+It takes just 2 minutes to sign up. You get 5,000 free requests every month—more than enough for most users to get detailed Whois data without paying a dime.
+
+This is a well built product, and your search for the best Whois API ends right here. 
 
 ## Quick Start
 
